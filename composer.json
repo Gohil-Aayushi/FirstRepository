@@ -1,0 +1,14 @@
+{
+    "name": "aayushi/hello-world",
+    "authors": [
+        {
+            "name": "aayushi"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
